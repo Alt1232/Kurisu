@@ -19,7 +19,6 @@ aiohttp>=2.2.5
 Pillow>=4.2.0
 CurrencyConverter
 jikanpy
-speedtest-cli
 coffeehouse
 regex
 bleach
@@ -32,10 +31,6 @@ pyrate-limiter
 cachetools
 fontTools
 nekos.py
-youtube_dl
-youtube_search
-pytube
-youtube-search-python
 pyrogram
 tgCrypto>=1.2.2
 motor
